@@ -31,12 +31,13 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:antonio.macaluso@dfki.de'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: orcid # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    url: https://orcid.org/0000-0002-1348-250X
+  - icon: researchgate
+    url: https://www.researchgate.net/profile/Antonio-Macaluso
+    icon_pack: ai
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
