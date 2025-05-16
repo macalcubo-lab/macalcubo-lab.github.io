@@ -25,7 +25,7 @@ role: Senior Researcher
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: German Research Center for Artificial Intelligence (DFKI)
-    url: https://www.dfki.de/
+    url: https://www.dfki.de
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
