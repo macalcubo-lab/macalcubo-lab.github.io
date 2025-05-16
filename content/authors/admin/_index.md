@@ -33,8 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:antonio.macaluso@dfki.de'
     label: E-mail Me
-  - icon: researchgate
-    icon_pack: ai
+  - icon: graduation-cap
     url: https://www.researchgate.net/profile/Antonio-Macaluso
   - icon: brands/github
     url: https://github.com/amacaluso
