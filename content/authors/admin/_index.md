@@ -33,19 +33,17 @@ profiles:
   - icon: at-symbol
     url: 'mailto:antonio.macaluso@dfki.de'
     label: E-mail Me
-  - icon: orcid # graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    url: https://orcid.org/0000-0002-1348-250X
   - icon: researchgate
-    url: https://www.researchgate.net/profile/Antonio-Macaluso
     icon_pack: ai
+    url: https://www.researchgate.net/profile/Antonio-Macaluso
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/amacaluso
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/antonio-macaluso/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&user=Z2R5HuEAAAAJ&view_op=list_works&sortby=pubdate
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-1348-250X
 
 interests:
   - Artificial Intelligence
