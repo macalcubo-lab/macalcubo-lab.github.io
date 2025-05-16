@@ -33,7 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:antonio.macaluso@dfki.de'
     label: E-mail Me
-  - icon: graduation-cap
+  - icon: researchgate # graduation-cap # Alternatively, use `google-scholar` icon from `ai` 
+    icon_pack: ai    
     url: https://www.researchgate.net/profile/Antonio-Macaluso
   - icon: brands/github
     url: https://github.com/amacaluso
@@ -45,9 +46,9 @@ profiles:
     url: https://orcid.org/0000-0002-1348-250X
 
 interests:
+  - Quantum Artificial Intelligence
+  - Quantum Computing
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
   - area: PhD in Computer Science and Engineering
